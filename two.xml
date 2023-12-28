@@ -2,6 +2,9 @@
 
 <!-- PREFIX and NAME SPACING -->
 
+<!-- Prefix are used before the parent and child tag. -->
+<!-- Name & Spacing are used after the parent tag -->
+
 <organization>
     <e:department xmlns:e="https//www.google.com/employees">
         <e:name>Ahmed</e:name>
