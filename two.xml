@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<!-- PREFIX and NAME SPACING -->
+
 <organization>
-    <department>
-        <name>Ahmed</name>
-        <age>20</age>
-        <designation>Developer</designation>
-        <salary>20,000</salary>
-    </department>
+    <e:department xmlns:e="https//www.google.com/employees">
+        <e:name>Ahmed</e:name>
+        <e:age>20</e:age>
+        <e:designation>Developer</e:designation>
+        <e:salary>20,000</e:salary>
+    </e:department>
 
-    <department>
-        <name>Haroon</name>
-        <age>25</age>
-        <designation>Senior Developer</designation>
-        <salary>30,000</salary>
-    </department>
+    <s:department xmlns:s="https//www.google.com/staff">
+        <s:name>Haroon</s:name>
+        <s:age>25</s:age>
+        <s:designation>Senior Developer</s:designation>
+        <s:salary>30,000</s:salary>
+    </s:department>
 
-    <department>
-        <name>Hammad</name>
-        <age>27</age>
-        <designation>Backend Developer</designation>
-        <salary>25,000</salary>
-    </department>
+    <w:department xmlns:w="https//www.google.com/staff">
+        <w:name>Hammad</w:name>
+        <w:age>27</w:age>
+        <w:designation>Backend Developer</w:designation>
+        <w:salary>25,000</w:salary>
+    </w:department>
 
 </organization>
