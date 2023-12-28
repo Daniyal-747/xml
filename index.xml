@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<!-- Food list is root, fooditem is parent and others are child -->
 <foodlist>
 
+    <!-- type are the attributes -->
     <fooditem type="Italian">
         <name>Pizza</name>
         <cost>$8</cost>
     </fooditem>
 
+    <!-- & is used for entities -->
     <fooditem type="Pakistani">
         <name> &quot; Biryani &quot;</name>
         <cost>$5</cost>
     </fooditem>
 
     <fooditem type="Mexican">
-        <name>Pasta</name>
+        <name>&gt;Pasta&gt;</name>
         <cost>$12</cost>
     </fooditem>
 
