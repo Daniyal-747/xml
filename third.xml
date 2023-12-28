@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Adding Prefix and Name Spacing in Root -->
+
+<records xmlns:e="https//www.google.com/employees" xmlns:s="https//www.google.com/staff" xmlns:w="https//www.google.com/worker">
+    <e:record>
+        <e:name>Adam</e:name>
+        <e:age>18</e:age>
+        <e:city>New York</e:city>
+    </e:record>
+
+    <s:record>
+        <s:name>John</s:name>
+        <s:age>22</s:age>
+        <s:city>paris</s:city>
+    </s:record>
+
+    <w:record>
+        <w:name>Kareem</w:name>
+        <w:age>25</w:age>
+        <w:city>Karachi</w:city>
+    </w:record>
+</records>
