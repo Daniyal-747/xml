@@ -20,7 +20,7 @@
         <s:salary>30,000</s:salary>
     </s:department>
 
-    <w:department xmlns:w="https//www.google.com/staff">
+    <w:department xmlns:w="https//www.google.com/workers">
         <w:name>Hammad</w:name>
         <w:age>27</w:age>
         <w:designation>Backend Developer</w:designation>
