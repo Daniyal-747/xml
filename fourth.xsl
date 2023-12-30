@@ -3,6 +3,7 @@
     
 <xsl:template match="/organization">
     <html>
+        
         <head>
             <title>This is an XSL file</title>
         </head>
