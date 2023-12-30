@@ -13,11 +13,11 @@
 
             <table border="3">
 
-                <tr>
+                <tr bgcolor="yellow">
                     <th colspan="4">DALDA EMPLOYEES</th>
                 </tr>
 
-                <tr>
+                <tr bgcolor="teal">
                     <th>NAME</th>
                     <th>BLOCK</th>
                     <th>LOCATION</th>
