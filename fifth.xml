@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="fifth.xsl" type="text/xsl"?>
+
+<organization>
+    <department>
+
+        <name>Ahmed</name>
+        <age>18</age>
+        <salary>20,000</salary>
+        <number>123456</number>
+
+        <name>Hamza</name>
+        <age>20</age>
+        <salary>18,000</salary>
+        <number>456789</number>
+        
+        <name>Sameen</name>
+        <age>21</age>
+        <salary>25,000</salary>
+        <number>11223344</number>
+
+        <name>Danish</name>
+        <age>25</age>
+        <salary>30,000</salary>
+        <number>33445566</number>
+
+    </department>
+</organization>
