@@ -10,20 +10,27 @@
         <salary>20,000</salary>
         <number>123456</number>
 
+    </department>
+
+    <department>
         <name>Hamza</name>
         <age>20</age>
         <salary>18,000</salary>
         <number>456789</number>
+    </department>
         
+    <department>
         <name>Sameen</name>
         <age>21</age>
         <salary>25,000</salary>
         <number>11223344</number>
+    </department>
 
+    <department>
         <name>Danish</name>
         <age>25</age>
         <salary>30,000</salary>
         <number>33445566</number>
-
     </department>
+
 </organization>
