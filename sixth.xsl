@@ -13,7 +13,7 @@
                 table{
                     text-align: center;
                     margin-left: 520px;
-                    background-color: #DEB887;
+                    background-color: brown;
                 }
 
                 h2{
