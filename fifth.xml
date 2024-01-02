@@ -33,4 +33,11 @@
         <number>33445566</number>
     </department>
 
+    <department>
+        <name>Madiha</name>
+        <age>22</age>
+        <salary>27,000</salary>
+        <number>55667788</number>
+    </department>
+
 </organization>
