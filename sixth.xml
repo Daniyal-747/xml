@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="sixth.xsl" type="text/xsl"?>
+
+<music>
+
+<album>
+    <title>Night Changes</title>
+    <artist>One Direction</artist>
+</album>
+
+<album>
+    <title>Love Story</title>
+    <artist>Taylor Swift</artist>
+</album>
+
+<album>
+    <title>Calm Down</title>
+    <artist>Selena Gomez</artist>
+</album>
+
+<album>
+    <title>Baby</title>
+    <artist>Justin Bieber</artist>
+</album>
+
+<album>
+    <title>Ilahi</title>
+    <artist>Arijit Singh</artist>
+</album>
+
+<album>
+    <title>Jhoom</title>
+    <artist>Ali Zafar</artist>
+</album>
+
+<album>
+    <title>Fire Works</title>
+    <artist>Katty Perry</artist>
+</album>
+
+<album>
+    <title>This Time</title>
+    <artist>Pia Toscano</artist>
+</album>
+
+<album>
+    <title>Beliver</title>
+    <artist>Imagine Dragons</artist>
+</album>
+
+<album>
+    <title>Shape of You</title>
+    <artist>Ed Sheeran</artist>
+</album>
+
+</music>
