@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="seventh.xsl" type="text/xsl"?>
+
+<organization>
+
+    <department>
+        <id>10234</id>
+        <name>Hamza</name>
+        <salary>50,0000</salary>
+        <joining-date>2-2-2015</joining-date>
+        <position>Manager</position>
+    </department>
+
+    <department>
+        <id>10235</id>
+        <name>Hamza</name>
+        <salary>20,0000</salary>
+        <joining-date>3-5-1990</joining-date>
+        <position>CEO</position>
+    </department>
+
+    <department>
+        <id>10236</id>
+        <name>Maheed</name>
+        <salary>50,0000</salary>
+        <joining-date>3-8-2020</joining-date>
+        <position>Manager</position>
+    </department>
+
+    <department>
+        <id>10237</id>
+        <name>Hamza</name>
+        <salary>30,0000</salary>
+        <joining-date>2-5-2018</joining-date>
+        <position>Manager</position>
+    </department>
+
+    <department>
+        <id>10238</id>
+        <name>Hamza</name>
+        <salary>10,0000</salary>
+        <joining-date>3-5-2024</joining-date>
+        <position>Accounts Officer</position>
+    </department>
+
+</organization>
