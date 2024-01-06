@@ -1,6 +1,6 @@
 // >${products[i].title} is showing the title of the products in each index
 
-// "${i}" is providing the values of object.index
+// "${i}" is providing the values of object/index
 
 for(let i=1; i<products.length; i++){
     document.querySelector('#select1').innerHTML += `
