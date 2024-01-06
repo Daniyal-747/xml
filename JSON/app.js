@@ -1,6 +1,6 @@
 // >${products[i].title} is showing the title of the products in each index
 
-// "${i}"
+// "${i}" is providing the values of object.index
 
 for(let i=1; i<products.length; i++){
     document.querySelector('#select1').innerHTML += `
@@ -11,6 +11,8 @@ for(let i=1; i<products.length; i++){
     document.querySelector('#select2').innerHTML += `
     <option value="${i}">${products[i].title}</option>`
 }
+
+// item1(a) "a is targeting this value and This value is targetting (i) which is object/index"
 
 function item1(a){
     document.querySelector('#img1').src = products[a].image;

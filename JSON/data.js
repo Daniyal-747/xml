@@ -1,3 +1,7 @@
+// [] In square brackets, we put multiple objects. Square brackets are called arrays.
+
+// {} in curly brackets, we are putting keys and values.
+
 var products = [
     
 {
